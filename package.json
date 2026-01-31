@@ -1,0 +1,26 @@
+{
+  "name": "quadruped-web-game",
+  "version": "1.0.0",
+  "description": "Web-based game framework with realistic quadruped animal locomotion",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx http-server -p 8000"
+  },
+  "keywords": [
+    "game",
+    "quadruped",
+    "animation",
+    "inverse-kinematics",
+    "gait",
+    "procedural-animation",
+    "p5js",
+    "web-game"
+  ],
+  "author": "nullz1011",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nullz1011/quadruped-web-game.git"
+  }
+}
